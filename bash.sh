@@ -1,2 +1,4 @@
 #!/bin/bash
-counter=0
+
+# @narbehdavoodian work in progress
+Internet=0
