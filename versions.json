@@ -16,6 +16,10 @@
         "onenote":
         {
             "version":"4.0.0"
+        } ,
+        "notepad++":
+        {
+            "version":"4.1.0"
         } 
     }
     
