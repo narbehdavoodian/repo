@@ -1,3 +1,5 @@
+#!/bin/bash
+
 filepath="https://raw.githubusercontent.com/narbehdavoodian/repo/master/versions.json"
 software=$1
 
